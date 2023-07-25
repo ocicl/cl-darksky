@@ -1,0 +1,10 @@
+* cl-darksky
+
+Dark Sky (formerly forecast.io) weather API wrapper written in common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/0xk175un3/cl-darksky.git   |
+| commit  | 2a1adac  |
+| systems | cl-darksky |
+|---------+-------------------------------------------|
+
